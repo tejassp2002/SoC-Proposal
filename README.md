@@ -15,6 +15,9 @@ Source:[OpenCV Tutorials](https://docs.opencv.org/master/d3/d96/tutorial_basic_g
 
 2. Smoothing Images:
 
+how to apply diverse linear filters to smooth images using OpenCV functions such as:
+blur(), GaussianBlur(), medianBlur(), bilateralFilter()
+
 [Code](https://github.com/tejassp2002/SoC-Proposal/blob/master/smoothing_images.py)
 
 Source:[OpenCV Tutorials](https://docs.opencv.org/master/dc/dd3/tutorial_gausian_median_blur_bilateral_filter.html),
@@ -22,6 +25,8 @@ Source:[OpenCV Tutorials](https://docs.opencv.org/master/dc/dd3/tutorial_gausian
    
 
 3. Morphological Transformations:
+
+About Morphological Operators
 
 [Code](https://github.com/tejassp2002/SoC-Proposal/blob/master/morphological_tranfsormation.py)
 
