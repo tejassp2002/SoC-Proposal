@@ -15,7 +15,7 @@ Source:[OpenCV Tutorials](https://docs.opencv.org/master/d3/d96/tutorial_basic_g
 
 2. Smoothing Images:
 
-how to apply diverse linear filters to smooth images using OpenCV functions such as:
+How to apply diverse linear filters to smooth images using OpenCV functions such as:
 blur(), GaussianBlur(), medianBlur(), bilateralFilter()
 
 [Code](https://github.com/tejassp2002/SoC-Proposal/blob/master/smoothing_images.py)
