@@ -36,7 +36,7 @@ Source:[OpenCV Tutorials](https://docs.opencv.org/master/db/df6/tutorial_erosion
     
     
 ### Past Experiences:
-*Learned C++ in First Semester. Learned basics of Python, automation in Python, building a website by Django [Video](https://www.youtube.com/watch?v=_uQrJ0TkZlc). Learned OpenCV from [OpenCV Tutorials](https://docs.opencv.org/master/d7/da8/tutorial_table_of_content_imgproc.html).*
+*Learned C++ in First Semester. Learned basics of Python, automation in Python, building a website by Django from [Video](https://www.youtube.com/watch?v=_uQrJ0TkZlc). Learned OpenCV from [OpenCV Tutorials](https://docs.opencv.org/master/d7/da8/tutorial_table_of_content_imgproc.html).*
 *Thanks Maitrey Gramopadhye and Siddhesh Pawar for helping.*
 
    
