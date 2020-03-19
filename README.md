@@ -1,6 +1,6 @@
 ## Welcome 
 
-Hello, I am Tejas Pagare. Pursuing B.Tech in Electrical Engineering at IIT Bombay. Currently in first year.I have huge interest in Machne Learning, Image Processing.
+Hello, I am Tejas Pagare. Pursuing B.Tech in Electrical Engineering at IIT Bombay. Currently in first year.I have huge interest in Machine Learning, Image Processing.
 
 ### OpenCV Tutorials(Image Processing)
 1. Basic Drawings:
