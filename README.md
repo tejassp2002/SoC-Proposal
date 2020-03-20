@@ -34,6 +34,14 @@ Source:[OpenCV Tutorials](https://docs.opencv.org/master/db/df6/tutorial_erosion
     [Video_Source](https://www.youtube.com/watch?v=xSzsD4kXhRw)
     
     
+4. Hit or Miss Transformation:
+
+[Code](https://github.com/tejassp2002/SoC-Proposal/blob/master/hit_or_miss.py)
+
+Source: [OpenCV Tutorials](https://docs.opencv.org/master/db/d06/tutorial_hitOrMiss.html)
+
+    
+    
     
 ### Past Experiences:
 *Learned C++ in First Semester. Learned basics of Python, automation in Python, building a website by Django from [Video](https://www.youtube.com/watch?v=_uQrJ0TkZlc). Learned OpenCV from [OpenCV Tutorials](https://docs.opencv.org/master/d7/da8/tutorial_table_of_content_imgproc.html).*
