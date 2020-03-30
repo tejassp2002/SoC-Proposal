@@ -58,7 +58,7 @@ Hello, I am Tejas Pagare. Pursuing B.Tech in Electrical Engineering at IIT Bomba
  
  [Code](https://github.com/tejassp2002/SoC-Proposal/blob/master/filter_2D.py)
  
- 9.Adding borders to your images
+ 9.Adding borders to images
  
  [Code](https://github.com/tejassp2002/SoC-Proposal/blob/master/borders.ipynb)
     
