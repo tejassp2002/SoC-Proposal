@@ -41,7 +41,25 @@ Source:[OpenCV Tutorials](https://docs.opencv.org/master/db/df6/tutorial_erosion
 Source: [OpenCV Tutorials](https://docs.opencv.org/master/db/d06/tutorial_hitOrMiss.html)
 
     
-    
+ 5.Extract horizontal and vertical lines by using morphological operations:
+ 
+ [Code](https://github.com/tejassp2002/SoC-Proposal/blob/master/morph_lines_detection.py)
+ 
+ 6.Image Pyramids:
+ 
+ [Code](https://github.com/tejassp2002/SoC-Proposal/blob/master/tutorial_pyramids.py)
+ 
+ 7.Basic Thresholding Operations:
+ 
+ [Code](https://github.com/tejassp2002/SoC-Proposal/blob/master/threshold.ipynb)
+ 
+ 8.Making your own linear filters!
+ 
+ [Code](https://github.com/tejassp2002/SoC-Proposal/blob/master/filter_2D.py)
+ 
+ 9.Adding borders to your images
+ 
+ [Code](https://github.com/tejassp2002/SoC-Proposal/blob/master/borders.ipynb)
     
 ### Past Experiences:
 *Learned C++ in First Semester. Learned basics of Python, automation in Python, building a website by Django from [Video](https://www.youtube.com/watch?v=_uQrJ0TkZlc). Learned OpenCV from [OpenCV Tutorials](https://docs.opencv.org/master/d7/da8/tutorial_table_of_content_imgproc.html).*
