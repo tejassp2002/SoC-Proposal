@@ -3,44 +3,45 @@
 Hello, I am Tejas Pagare. Pursuing B.Tech in Electrical Engineering at IIT Bombay. Currently in first year.I have huge interest in Machine Learning, Image Processing.
 
 ### OpenCV Tutorials(Image Processing)
-1. Basic Drawings:
 
-How to draw an atom and a rook
+ 1. Basic Drawings:
 
-[Code](https://github.com/tejassp2002/SoC-Proposal/blob/master/geometric_drawings.py)
+ How to draw an atom and a rook
 
-Source:[OpenCV Tutorials](https://docs.opencv.org/master/d3/d96/tutorial_basic_geometric_drawing.html),
- [Video Source](https://www.youtube.com/watch?v=V1aMDD5583k)
+ [Code](https://github.com/tejassp2002/SoC-Proposal/blob/master/geometric_drawings.py)
 
+ Source:[OpenCV Tutorials](https://docs.opencv.org/master/d3/d96/tutorial_basic_geometric_drawing.html),
+  [Video Source](https://www.youtube.com/watch?v=V1aMDD5583k)
 
-2. Smoothing Images:
+ 2. Smoothing Images:
 
-How to apply diverse linear filters to smooth images using OpenCV functions such as:
-blur(), GaussianBlur(), medianBlur(), bilateralFilter()
+ How to apply diverse linear filters to smooth images using OpenCV functions such as:
+ blur(), GaussianBlur(), medianBlur(), bilateralFilter()
 
-[Code](https://github.com/tejassp2002/SoC-Proposal/blob/master/smoothing_images.py)
+ [Code](https://github.com/tejassp2002/SoC-Proposal/blob/master/smoothing_images.py)
 
-Source:[OpenCV Tutorials](https://docs.opencv.org/master/dc/dd3/tutorial_gausian_median_blur_bilateral_filter.html),
-   [Video Source](https://www.youtube.com/watch?v=u3poUhCxx4k)
+ Source:[OpenCV Tutorials](https://docs.opencv.org/master/dc/dd3/tutorial_gausian_median_blur_bilateral_filter.html),
+    [Video Source](https://www.youtube.com/watch?v=u3poUhCxx4k)
    
+ 3. Morphological Transformations:
 
-3. Morphological Transformations:
+ About Morphological Operators
 
-About Morphological Operators
+ [Code](https://github.com/tejassp2002/SoC-Proposal/blob/master/morphological_tranfsormation.py)
 
-[Code](https://github.com/tejassp2002/SoC-Proposal/blob/master/morphological_tranfsormation.py)
-
-Source:[OpenCV Tutorials](https://docs.opencv.org/master/db/df6/tutorial_erosion_dilatation.html),   
-    [Video_Source](https://www.youtube.com/watch?v=xSzsD4kXhRw)
+ Source:[OpenCV Tutorials](https://docs.opencv.org/master/db/df6/tutorial_erosion_dilatation.html),   
+     [Video_Source](https://www.youtube.com/watch?v=xSzsD4kXhRw)
     
     
-4. Hit or Miss Transformation:
-
-[Code](https://github.com/tejassp2002/SoC-Proposal/blob/master/hit_or_miss.py)
-
-Source: [OpenCV Tutorials](https://docs.opencv.org/master/db/d06/tutorial_hitOrMiss.html)
-
+ 
     
+ 4. Hit or Miss Transformation:
+
+ [Code](https://github.com/tejassp2002/SoC-Proposal/blob/master/hit_or_miss.py)
+
+ Source: [OpenCV Tutorials](https://docs.opencv.org/master/db/d06/tutorial_hitOrMiss.html)
+
+
  5.Extract horizontal and vertical lines by using morphological operations:
  
  [Code](https://github.com/tejassp2002/SoC-Proposal/blob/master/morph_lines_detection.py)
