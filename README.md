@@ -61,6 +61,10 @@ Hello, I am Tejas Pagare. Pursuing B.Tech in Electrical Engineering at IIT Bomba
  9.Adding borders to images
  
  [Code](https://github.com/tejassp2002/SoC-Proposal/blob/master/borders.ipynb)
+ 
+ 
+### Practice:
+[Link](https://github.com/tejassp2002/SoC-Proposal/blob/master/practice.ipynb)
     
 ### Past Experiences:
 *Learned C++ in First Semester. Learned basics of Python, automation in Python, building a website by Django from [Video](https://www.youtube.com/watch?v=_uQrJ0TkZlc). Learned OpenCV from [OpenCV Tutorials](https://docs.opencv.org/master/d7/da8/tutorial_table_of_content_imgproc.html).*
